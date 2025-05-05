@@ -1,4 +1,4 @@
-#zen-essentials-container {
+#zen-essentials-wrapper {
     margin-top: auto !important; /* Push container to the bottom of the layout */
     order: 999 !important; /* Ensure it's the last element in flex/grid layout */
     overflow: hidden !important;
