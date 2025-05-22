@@ -13,7 +13,7 @@
 
 #navigator-toolbox[zen-sidebar-expanded="true"] {
     .zen-essentials-container {
-      min-width: 100% !important;
-      width: 100% !important;
+        min-width: 100% !important;
+        width: 100% !important;
     }
 }
